@@ -1,0 +1,32 @@
+.container{
+    height: 60vb;
+    width: 90vb;
+    background-color: rgb(149, 158, 160);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    border: 3px solid brown;
+    border-radius: 25%;
+}
+#date{
+    width: 30%;
+    height: 30%;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 10%;
+}
+
+#time{
+    width: 30%;
+    height: 30%;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 10%;
+}
